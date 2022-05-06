@@ -1,5 +1,3 @@
-package com.example.DB1JPA.infrastructure.errors;
-
 import java.util.Date;
 
 public class ExceptionResponse {

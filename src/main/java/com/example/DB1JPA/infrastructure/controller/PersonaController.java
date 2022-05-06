@@ -1,10 +1,3 @@
-package com.example.DB1JPA.infrastructure.controller;
-
-import com.example.DB1JPA.infrastructure.dto.input.PersonaInputDTO;
-import com.example.DB1JPA.infrastructure.dto.output.PersonaOutputDTO;
-import com.example.DB1JPA.application.port.PersonaService;
-import com.example.DB1JPA.infrastructure.errors.BeanNotFoundException;
-import com.example.DB1JPA.infrastructure.errors.UnprocessableException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

@@ -1,7 +1,5 @@
-package com.example.DB1JPA.application;
-
-import com.example.DB1JPA.application.port.PersonaService;
-import com.example.DB1JPA.domain.Persona;
+import PersonaService;
+import Persona;
 import com.example.DB1JPA.infrastructure.dto.input.PersonaInputDTO;
 import com.example.DB1JPA.infrastructure.dto.output.PersonaOutputDTO;
 import com.example.DB1JPA.infrastructure.repository.PersonaRepository;

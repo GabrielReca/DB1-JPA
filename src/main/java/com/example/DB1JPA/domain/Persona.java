@@ -1,5 +1,3 @@
-package com.example.DB1JPA.domain;
-
 import com.example.DB1JPA.infrastructure.dto.input.PersonaInputDTO;
 import lombok.Data;
 import lombok.NoArgsConstructor;

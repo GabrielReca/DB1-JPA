@@ -1,5 +1,3 @@
-package com.example.DB1JPA.infrastructure.errors;
-
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ExceptionHandler;
